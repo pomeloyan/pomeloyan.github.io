@@ -43,8 +43,8 @@ plugins: [jekyll-paginate]
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 46d9322de4b2bfc8ebc9                            #生成的clientID
-  clientSecret: 31d9bb43d19f660ce24d8c9826e550363d78b988    #生成的clientSecret
+  clientID: e89514141d69bf824aa9                            #生成的clientID
+  clientSecret: 0f10d5a157830b90e7ad3c9c7183d73da90ce71c    #生成的clientSecret
   repo: pomeloyan.github.io    #仓库名称
   owner: pomeloyan    #github用户名
   admin: pomeloyan
